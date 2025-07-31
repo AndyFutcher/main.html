@@ -6,7 +6,7 @@
 /* Wireframe */
 *,*::before,*::after {box-sizing:border-box;margin:0;padding:0;
 } /* Root & Body */
-:root {--ver-major:0;--ver-minor:6;--ver-patch:24;--ver-branch:'rc'; /* Versions */
+:root {--ver-major:0;--ver-minor:6;--ver-patch:24;--ver-branch:'main'; /* Versions */
 --font-fallback:-apple-system,BlinkMacSystemFont,"Apple Color Emoji"; /* Font Fallback */
 color-scheme:light dark; /* Dark Mode Supported */
 /* AUTO FONTS */		/*--font-body:"";--font-headings:"";--font-monospace:"";--font-title:"";--font-brand:"";--font-footer:"";--font-reader-mode:"";*/
